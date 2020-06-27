@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 some another text
+=======
+changed index content
+>>>>>>> e04a250... change index file
